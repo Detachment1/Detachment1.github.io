@@ -11,7 +11,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 disqusShortname = "yourdiscussshortname"
-
+publishDir = "/docs"
 [params]
   author = "Detachment"
   info = "A Blog to record and share my experience of exploring myself"
