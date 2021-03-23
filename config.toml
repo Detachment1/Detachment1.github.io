@@ -1,48 +1,38 @@
 baseurl = "https://detachment1.github.io"
 title = "Detachment Blog"
 theme = "hugo-coder"
-languagecode = "en"
-defaultcontentlanguage = "en"
-
+defaultcontentlanguage = "zh-cn"
 paginate = 20
-
 pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
-
-disqusShortname = "yourdiscussshortname"
+#disqusShortname = "yourdiscussshortname"
 publishDir = "/docs"
-[params]
-  author = "Detachment"
-  info = "A Blog to record and share my experience of exploring myself"
-  description = "John Doe's personal website"
-  keywords = "blog,developer,personal"
-  avatarurl = "images/avatar.jpg"
-  #gravatar = "john.doe@example.com"
-
-  favicon_32 = "/img/favicon-32x32.png"
-  favicon_16 = "/img/favicon-16x16.png"
-
-  footercontent = ""
-  hideFooter = false
-  hideCredits = false
-  hideCopyright = false
-  since = 2019
-
-  enableTwemoji = true
-
-  colorScheme = "auto"
-  hidecolorschemetoggle = false
-
-  customCSS = []
-  customSCSS = []
-  customJS = []
 
 [taxonomies]
   category = "categories"
   series = "series"
   tag = "tags"
   author = "authors"
+[params]
+  avatarurl = "images/try.png"
+  #gravatar = "john.doe@example.com"
+  #favicon_32 = "/img/favicon-32x32.png"
+  #favicon_16 = "/img/favicon-16x16.png"
+  hideFooter = false
+  hideCredits = false
+  hideCopyright = false
+  since = "2021"
+  disableComments = true
+  enableTwemoji = true
+  katex = "ture"
+  math = "true"
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+  customCSS = []
+  customSCSS = []
+  customJS = []
+  defaultContentLanguageInSubdir = true
 
 # Social links
 [[params.social]]
@@ -50,18 +40,66 @@ publishDir = "/docs"
   icon = "fa fa-github fa-2x"
   weight = 1
   url = "https://github.com/Detachment1"
-[[params.social]]
-  name = "Twitter"
-  icon = "fa fa-twitter fa-2x"
-  weight = 3
-  url = "https://twitter.com"
+#[[params.social]]
+#  name = "Twitter"
+#  icon = "fa fa-twitter fa-2x"
+#  weight = 3
+#  url = "https://twitter.com"
 
-# Menu links
-[[menu.main]]
-  name = "Blog"
-  weight = 1
-  url  = "posts/"
-[[menu.main]]
-  name = "About"
-  weight = 2
-  url = "about/"
+[languages]
+  [languages.en]
+    contentDir = "content/en"
+    languageName = "English"
+    title = "Detachment Blog"
+    languagecode = "en"
+    weight = 1
+    [languages.en.params]
+      author = "Detachment"
+      info = "A blog to record and share my experience of exploring myself"
+      description = "A blog to record and share my experience of exploring myself"
+      keywords = "blog,desenvolvedor,pessoal"
+      footerContent = ""
+    [[languages.en.menu.main]]
+      name = "About"
+      weight = 1
+      url = "about/"
+    [[languages.en.menu.main]]
+      name = "Blogs"
+      weight = 2
+      url = "posts/"
+    [[languages.en.menu.main]]
+      name = "Projects"
+      weight = 3
+      url = "categories/projects"   
+    [[languages.en.menu.main]]
+      name = "Contact me"
+      weight = 4
+      url = "contact/"
+  [languages.zh-cn]
+    languageName = "简体中文"
+    contentDir = "content/zh-cn"
+    title = "Detachment Blog"
+    languagecode = "zh-cn"
+    weight = 2
+    [languages.zh-cn.params]
+      author = "Detachment"
+      info = "一个探索自己的博客"
+      description = "一个探索自己的博客"
+      keywords = "blog,desenvolvedor,pessoal"
+      footerContent = ""
+    [[languages.zh-cn.menu.main]]
+      name = "关于"
+      weight = 1
+      url = "about/"
+    [[languages.zh-cn.menu.main]]
+      name = "博客"
+      weight = 2
+      url = "posts/"
+    [[languages.zh-cn.menu.main]]
+      name = "项目"
+      weight = 3
+      url = "categories/项目"   
+    [[languages.zh-cn.menu.main]]
+      name = "联系方式"
+      weight = 4
+      url = "contact/"
