@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Detachment Blog</title>
+    <link>https://detachment1.github.io/en/tags/</link>
+    <description>Recent content in Tags on Detachment Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 22 Mar 2021 19:19:18 +0800</lastBuildDate><atom:link href="https://detachment1.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tech</title>
+      <link>https://detachment1.github.io/en/tags/tech/</link>
+      <pubDate>Mon, 22 Mar 2021 19:19:18 +0800</pubDate>
+      
+      <guid>https://detachment1.github.io/en/tags/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>https://detachment1.github.io/en/tags/test/</link>
+      <pubDate>Mon, 22 Mar 2021 19:19:18 +0800</pubDate>
+      
+      <guid>https://detachment1.github.io/en/tags/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>website</title>
+      <link>https://detachment1.github.io/en/tags/website/</link>
+      <pubDate>Mon, 22 Mar 2021 19:19:18 +0800</pubDate>
+      
+      <guid>https://detachment1.github.io/en/tags/website/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

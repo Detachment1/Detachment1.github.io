@@ -5,15 +5,42 @@
     <link>https://detachment1.github.io/</link>
     <description>Recent content on Detachment Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 20 Mar 2021 20:19:18 +0800</lastBuildDate><atom:link href="https://detachment1.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 22 Mar 2021 19:19:18 +0800</lastBuildDate><atom:link href="https://detachment1.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My first blog</title>
-      <link>https://detachment1.github.io/posts/try-a-slug/</link>
+      <title>创建一个博客网站</title>
+      <link>https://detachment1.github.io/posts/create_a_blogsite/</link>
+      <pubDate>Mon, 22 Mar 2021 19:19:18 +0800</pubDate>
+      
+      <guid>https://detachment1.github.io/posts/create_a_blogsite/</guid>
+      <description>创建博客hugo + github</description>
+    </item>
+    
+    <item>
+      <title>我的第一篇文章</title>
+      <link>https://detachment1.github.io/posts/my-first-post/</link>
       <pubDate>Sat, 20 Mar 2021 20:19:18 +0800</pubDate>
       
-      <guid>https://detachment1.github.io/posts/try-a-slug/</guid>
-      <description>First Blog</description>
+      <guid>https://detachment1.github.io/posts/my-first-post/</guid>
+      <description>First Blog试一些中文看看好不好使 试一下公式 $12^2$</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://detachment1.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://detachment1.github.io/about/</guid>
+      <description>关于我 我是一个程序猿</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://detachment1.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://detachment1.github.io/contact/</guid>
+      <description>联系我 email : kairanliang.0@gmail.comgithub : https://github.com/Detachment1</description>
     </item>
     
   </channel>

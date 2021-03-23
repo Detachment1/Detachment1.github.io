@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tech on Detachment Blog</title>
+    <link>https://detachment1.github.io/en/tags/tech/</link>
+    <description>Recent content in tech on Detachment Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 22 Mar 2021 19:19:18 +0800</lastBuildDate><atom:link href="https://detachment1.github.io/en/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Create a blogsite</title>
+      <link>https://detachment1.github.io/en/posts/create_a_blogsite/</link>
+      <pubDate>Mon, 22 Mar 2021 19:19:18 +0800</pubDate>
+      
+      <guid>https://detachment1.github.io/en/posts/create_a_blogsite/</guid>
+      <description>Create a blogsitehugo + github</description>
+    </item>
+    
+  </channel>
+</rss>
