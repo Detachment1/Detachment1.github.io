@@ -1,4 +1,4 @@
-baseURL = "http://detachment1.hithub.io/"
+baseURL = "https://detachment1.hithub.io/"
 languageCode = "en"
 defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
 defaultContentLanguageInSubdir = true
