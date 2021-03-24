@@ -2,26 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Detachment Blog</title>
-    <link>https://detachment1.github.io/en/categories/</link>
+    <link>http://detachment1.hithub.io/en/categories/</link>
     <description>Recent content in Categories on Detachment Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Mar 2021 19:19:18 +0800</lastBuildDate><atom:link href="https://detachment1.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Mar 2021 17:02:46 +0800</lastBuildDate><atom:link href="http://detachment1.hithub.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>note</title>
+      <link>http://detachment1.hithub.io/en/categories/note/</link>
+      <pubDate>Tue, 23 Mar 2021 17:02:46 +0800</pubDate>
+      
+      <guid>http://detachment1.hithub.io/en/categories/note/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>projects</title>
-      <link>https://detachment1.github.io/en/categories/projects/</link>
+      <link>http://detachment1.hithub.io/en/categories/projects/</link>
       <pubDate>Mon, 22 Mar 2021 19:19:18 +0800</pubDate>
       
-      <guid>https://detachment1.github.io/en/categories/projects/</guid>
+      <guid>http://detachment1.hithub.io/en/categories/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>life</title>
-      <link>https://detachment1.github.io/en/categories/life/</link>
+      <link>http://detachment1.hithub.io/en/categories/life/</link>
       <pubDate>Sat, 20 Mar 2021 20:19:18 +0800</pubDate>
       
-      <guid>https://detachment1.github.io/en/categories/life/</guid>
+      <guid>http://detachment1.hithub.io/en/categories/life/</guid>
       <description></description>
     </item>
     
