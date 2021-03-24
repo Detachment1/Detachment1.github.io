@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>测试 on Detachment Blog</title>
-    <link>https://detachment1.hithub.io/zh-cn/tags/%E6%B5%8B%E8%AF%95/</link>
+    <link>https://detachment1.github.io/zh-cn/tags/%E6%B5%8B%E8%AF%95/</link>
     <description>Recent content in 测试 on Detachment Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 22 Mar 2021 19:19:18 +0800</lastBuildDate><atom:link href="https://detachment1.hithub.io/zh-cn/tags/%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Mar 2021 19:19:18 +0800</lastBuildDate><atom:link href="https://detachment1.github.io/zh-cn/tags/%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>创建一个博客网站</title>
-      <link>https://detachment1.hithub.io/zh-cn/post/create_a_blogsite_detachment/</link>
+      <link>https://detachment1.github.io/zh-cn/post/create_a_blogsite_detachment/</link>
       <pubDate>Mon, 22 Mar 2021 19:19:18 +0800</pubDate>
       
-      <guid>https://detachment1.hithub.io/zh-cn/post/create_a_blogsite_detachment/</guid>
+      <guid>https://detachment1.github.io/zh-cn/post/create_a_blogsite_detachment/</guid>
       <description>创建博客 hugo + github</description>
     </item>
     
     <item>
       <title>我的第一篇文章</title>
-      <link>https://detachment1.hithub.io/zh-cn/post/my_first_post_detachment/</link>
+      <link>https://detachment1.github.io/zh-cn/post/my_first_post_detachment/</link>
       <pubDate>Sat, 20 Mar 2021 20:19:18 +0800</pubDate>
       
-      <guid>https://detachment1.hithub.io/zh-cn/post/my_first_post_detachment/</guid>
+      <guid>https://detachment1.github.io/zh-cn/post/my_first_post_detachment/</guid>
       <description>First Blog 试一些中文看看好不好使 试一下公式 $12^2$</description>
     </item>
     
