@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>生活 on Detachment Blog</title>
-    <link>http://detachment1.hithub.io/zh-cn/categories/%E7%94%9F%E6%B4%BB/</link>
+    <link>https://detachment1.hithub.io/zh-cn/categories/%E7%94%9F%E6%B4%BB/</link>
     <description>Recent content in 生活 on Detachment Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 20 Mar 2021 20:19:18 +0800</lastBuildDate><atom:link href="http://detachment1.hithub.io/zh-cn/categories/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Mar 2021 20:19:18 +0800</lastBuildDate><atom:link href="https://detachment1.hithub.io/zh-cn/categories/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我的第一篇文章</title>
-      <link>http://detachment1.hithub.io/zh-cn/post/my_first_post_detachment/</link>
+      <link>https://detachment1.hithub.io/zh-cn/post/my_first_post_detachment/</link>
       <pubDate>Sat, 20 Mar 2021 20:19:18 +0800</pubDate>
       
-      <guid>http://detachment1.hithub.io/zh-cn/post/my_first_post_detachment/</guid>
+      <guid>https://detachment1.hithub.io/zh-cn/post/my_first_post_detachment/</guid>
       <description>First Blog 试一些中文看看好不好使 试一下公式 $12^2$</description>
     </item>
     

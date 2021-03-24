@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Detachment Blog</title>
-    <link>http://detachment1.hithub.io/en/</link>
+    <link>https://detachment1.hithub.io/en/</link>
     <description>Recent content on Detachment Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Mar 2021 17:02:46 +0800</lastBuildDate><atom:link href="http://detachment1.hithub.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Mar 2021 17:02:46 +0800</lastBuildDate><atom:link href="https://detachment1.hithub.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Note</title>
-      <link>http://detachment1.hithub.io/en/post/markdown_note_detachment/</link>
+      <link>https://detachment1.hithub.io/en/post/markdown_note_detachment/</link>
       <pubDate>Tue, 23 Mar 2021 17:02:46 +0800</pubDate>
       
-      <guid>http://detachment1.hithub.io/en/post/markdown_note_detachment/</guid>
+      <guid>https://detachment1.hithub.io/en/post/markdown_note_detachment/</guid>
       <description>Basic Syntax    Markdown output     # Heading level 1 Heading level 1   # Heading level 2 Heading level 2   # Heading level 3 Heading level 3   # Heading level 4 Heading level 4   # Heading level 5 Heading level 5   # Heading level 6 Heading level 6   # Heading level 7 Heading level 7   I just love **bold text**.</description>
     </item>
     
     <item>
       <title>Create a blogsite</title>
-      <link>http://detachment1.hithub.io/en/post/create_a_blogsite_detachment/</link>
+      <link>https://detachment1.hithub.io/en/post/create_a_blogsite_detachment/</link>
       <pubDate>Mon, 22 Mar 2021 19:19:18 +0800</pubDate>
       
-      <guid>http://detachment1.hithub.io/en/post/create_a_blogsite_detachment/</guid>
+      <guid>https://detachment1.hithub.io/en/post/create_a_blogsite_detachment/</guid>
       <description>Create a blogsite hugo + github </description>
     </item>
     
     <item>
       <title>My first blog</title>
-      <link>http://detachment1.hithub.io/en/post/my_first_post_detachment/</link>
+      <link>https://detachment1.hithub.io/en/post/my_first_post_detachment/</link>
       <pubDate>Sat, 20 Mar 2021 20:19:18 +0800</pubDate>
       
-      <guid>http://detachment1.hithub.io/en/post/my_first_post_detachment/</guid>
+      <guid>https://detachment1.hithub.io/en/post/my_first_post_detachment/</guid>
       <description>First Blog 试一些中文看看好不好使 试一下公式 $12^2$</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://detachment1.hithub.io/en/about/</link>
+      <link>https://detachment1.hithub.io/en/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://detachment1.hithub.io/en/about/</guid>
+      <guid>https://detachment1.hithub.io/en/about/</guid>
       <description>About me  I am a programmer </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://detachment1.hithub.io/en/contact/</link>
+      <link>https://detachment1.hithub.io/en/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://detachment1.hithub.io/en/contact/</guid>
+      <guid>https://detachment1.hithub.io/en/contact/</guid>
       <description>Contact me  email : kairanliang.0@gmail.com github : https://github.com/Detachment1 </description>
     </item>
     

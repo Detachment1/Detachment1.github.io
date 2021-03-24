@@ -1,104 +1,104 @@
-<?xml-stylesheet type="text/xsl" href="http://detachment1.hithub.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://detachment1.hithub.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://detachment1.hithub.io/zh-cn/categories/</loc>
+    <loc>https://detachment1.hithub.io/zh-cn/categories/</loc>
     <lastmod>2021-03-23T17:01:50+08:00</lastmod>
     <changefreq>random</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://detachment1.hithub.io/zh-cn/</loc>
+    <loc>https://detachment1.hithub.io/zh-cn/</loc>
     <lastmod>2021-03-23T17:01:50+08:00</lastmod>
     <changefreq>random</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://detachment1.hithub.io/zh-cn/post/markdown_note_detachment/</loc>
+    <loc>https://detachment1.hithub.io/zh-cn/post/markdown_note_detachment/</loc>
     <lastmod>2021-03-23T17:01:50+08:00</lastmod>
     <changefreq>random</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://detachment1.hithub.io/zh-cn/post/</loc>
+    <loc>https://detachment1.hithub.io/zh-cn/post/</loc>
     <lastmod>2021-03-23T17:01:50+08:00</lastmod>
     <changefreq>random</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://detachment1.hithub.io/zh-cn/tags/</loc>
+    <loc>https://detachment1.hithub.io/zh-cn/tags/</loc>
     <lastmod>2021-03-23T17:01:50+08:00</lastmod>
     <changefreq>random</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://detachment1.hithub.io/zh-cn/tags/%E6%8A%80%E6%9C%AF/</loc>
+    <loc>https://detachment1.hithub.io/zh-cn/tags/%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2021-03-23T17:01:50+08:00</lastmod>
     <changefreq>random</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://detachment1.hithub.io/zh-cn/categories/%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://detachment1.hithub.io/zh-cn/categories/%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2021-03-23T17:01:50+08:00</lastmod>
     <changefreq>random</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://detachment1.hithub.io/zh-cn/post/create_a_blogsite_detachment/</loc>
+    <loc>https://detachment1.hithub.io/zh-cn/post/create_a_blogsite_detachment/</loc>
     <lastmod>2021-03-22T19:19:18+08:00</lastmod>
     <changefreq>random</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://detachment1.hithub.io/zh-cn/tags/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://detachment1.hithub.io/zh-cn/tags/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2021-03-22T19:19:18+08:00</lastmod>
     <changefreq>random</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://detachment1.hithub.io/zh-cn/tags/%E7%BD%91%E7%AB%99/</loc>
+    <loc>https://detachment1.hithub.io/zh-cn/tags/%E7%BD%91%E7%AB%99/</loc>
     <lastmod>2021-03-22T19:19:18+08:00</lastmod>
     <changefreq>random</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://detachment1.hithub.io/zh-cn/categories/%E9%A1%B9%E7%9B%AE/</loc>
+    <loc>https://detachment1.hithub.io/zh-cn/categories/%E9%A1%B9%E7%9B%AE/</loc>
     <lastmod>2021-03-22T19:19:18+08:00</lastmod>
     <changefreq>random</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://detachment1.hithub.io/zh-cn/post/my_first_post_detachment/</loc>
+    <loc>https://detachment1.hithub.io/zh-cn/post/my_first_post_detachment/</loc>
     <lastmod>2021-03-20T20:19:18+08:00</lastmod>
     <changefreq>random</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://detachment1.hithub.io/zh-cn/categories/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://detachment1.hithub.io/zh-cn/categories/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2021-03-20T20:19:18+08:00</lastmod>
     <changefreq>random</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://detachment1.hithub.io/zh-cn/about/</loc>
+    <loc>https://detachment1.hithub.io/zh-cn/about/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://detachment1.hithub.io/zh-cn/contact/</loc>
+    <loc>https://detachment1.hithub.io/zh-cn/contact/</loc>
     <priority>0</priority>
   </url>
   

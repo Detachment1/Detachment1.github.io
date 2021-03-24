@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://detachment1.hithub.io/sitemap.xml
+Sitemap: https://detachment1.hithub.io/sitemap.xml

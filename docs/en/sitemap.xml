@@ -1,104 +1,104 @@
-<?xml-stylesheet type="text/xsl" href="http://detachment1.hithub.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://detachment1.hithub.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://detachment1.hithub.io/en/categories/</loc>
+    <loc>https://detachment1.hithub.io/en/categories/</loc>
     <lastmod>2021-03-23T17:02:46+08:00</lastmod>
     <changefreq>random</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://detachment1.hithub.io/en/</loc>
+    <loc>https://detachment1.hithub.io/en/</loc>
     <lastmod>2021-03-23T17:02:46+08:00</lastmod>
     <changefreq>random</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://detachment1.hithub.io/en/post/markdown_note_detachment/</loc>
+    <loc>https://detachment1.hithub.io/en/post/markdown_note_detachment/</loc>
     <lastmod>2021-03-23T17:02:46+08:00</lastmod>
     <changefreq>random</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://detachment1.hithub.io/en/categories/note/</loc>
+    <loc>https://detachment1.hithub.io/en/categories/note/</loc>
     <lastmod>2021-03-23T17:02:46+08:00</lastmod>
     <changefreq>random</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://detachment1.hithub.io/en/post/</loc>
+    <loc>https://detachment1.hithub.io/en/post/</loc>
     <lastmod>2021-03-23T17:02:46+08:00</lastmod>
     <changefreq>random</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://detachment1.hithub.io/en/tags/</loc>
+    <loc>https://detachment1.hithub.io/en/tags/</loc>
     <lastmod>2021-03-23T17:02:46+08:00</lastmod>
     <changefreq>random</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://detachment1.hithub.io/en/tags/tech/</loc>
+    <loc>https://detachment1.hithub.io/en/tags/tech/</loc>
     <lastmod>2021-03-23T17:02:46+08:00</lastmod>
     <changefreq>random</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://detachment1.hithub.io/en/post/create_a_blogsite_detachment/</loc>
+    <loc>https://detachment1.hithub.io/en/post/create_a_blogsite_detachment/</loc>
     <lastmod>2021-03-22T19:19:18+08:00</lastmod>
     <changefreq>random</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://detachment1.hithub.io/en/categories/projects/</loc>
+    <loc>https://detachment1.hithub.io/en/categories/projects/</loc>
     <lastmod>2021-03-22T19:19:18+08:00</lastmod>
     <changefreq>random</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://detachment1.hithub.io/en/tags/test/</loc>
+    <loc>https://detachment1.hithub.io/en/tags/test/</loc>
     <lastmod>2021-03-22T19:19:18+08:00</lastmod>
     <changefreq>random</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://detachment1.hithub.io/en/tags/website/</loc>
+    <loc>https://detachment1.hithub.io/en/tags/website/</loc>
     <lastmod>2021-03-22T19:19:18+08:00</lastmod>
     <changefreq>random</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://detachment1.hithub.io/en/categories/life/</loc>
+    <loc>https://detachment1.hithub.io/en/categories/life/</loc>
     <lastmod>2021-03-20T20:19:18+08:00</lastmod>
     <changefreq>random</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://detachment1.hithub.io/en/post/my_first_post_detachment/</loc>
+    <loc>https://detachment1.hithub.io/en/post/my_first_post_detachment/</loc>
     <lastmod>2021-03-20T20:19:18+08:00</lastmod>
     <changefreq>random</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://detachment1.hithub.io/en/about/</loc>
+    <loc>https://detachment1.hithub.io/en/about/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://detachment1.hithub.io/en/contact/</loc>
+    <loc>https://detachment1.hithub.io/en/contact/</loc>
     <priority>0</priority>
   </url>
   
