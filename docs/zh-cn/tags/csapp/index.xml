@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>笔记 on Detachment Blog</title>
-    <link>https://detachment1.github.io/zh-cn/categories/%E7%AC%94%E8%AE%B0/</link>
-    <description>Recent content in 笔记 on Detachment Blog</description>
+    <title>CS:APP on Detachment Blog</title>
+    <link>https://detachment1.github.io/zh-cn/tags/csapp/</link>
+    <description>Recent content in CS:APP on Detachment Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 30 Mar 2021 20:25:52 +0800</lastBuildDate><atom:link href="https://detachment1.github.io/zh-cn/categories/%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Mar 2021 20:25:52 +0800</lastBuildDate><atom:link href="https://detachment1.github.io/zh-cn/tags/csapp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CS:APP 数据实验笔记</title>
       <link>https://detachment1.github.io/zh-cn/post/csapp_datalab_detachment/</link>
@@ -23,15 +23,6 @@
       
       <guid>https://detachment1.github.io/zh-cn/post/csapp_detachment/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Markdown 笔记</title>
-      <link>https://detachment1.github.io/zh-cn/post/markdown_note_detachment/</link>
-      <pubDate>Tue, 23 Mar 2021 17:01:50 +0800</pubDate>
-      
-      <guid>https://detachment1.github.io/zh-cn/post/markdown_note_detachment/</guid>
-      <description>基础语法 Markdown output # Heading level 1 Heading level 1 # Heading level 2 Heading level 2 # Heading level 3 Heading level 3 # Heading level 4 Heading level 4 # Heading level 5 Heading level 5 # Heading level 6 Heading level 6 # Heading level 7 Heading level 7 I just love **bold text**. I just love bold text. Italicized text is the *cat&amp;rsquo;s</description>
     </item>
     
   </channel>

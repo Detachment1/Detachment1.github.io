@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CS:APP数据实验 on Detachment Blog</title>
+    <link>https://detachment1.github.io/zh-cn/tags/csapp%E6%95%B0%E6%8D%AE%E5%AE%9E%E9%AA%8C/</link>
+    <description>Recent content in CS:APP数据实验 on Detachment Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 30 Mar 2021 20:25:52 +0800</lastBuildDate><atom:link href="https://detachment1.github.io/zh-cn/tags/csapp%E6%95%B0%E6%8D%AE%E5%AE%9E%E9%AA%8C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CS:APP 数据实验笔记</title>
+      <link>https://detachment1.github.io/zh-cn/post/csapp_datalab_detachment/</link>
+      <pubDate>Tue, 30 Mar 2021 20:25:52 +0800</pubDate>
+      
+      <guid>https://detachment1.github.io/zh-cn/post/csapp_datalab_detachment/</guid>
+      <description>实验网站 http://csapp.cs.cmu.edu/3e/labs.html 下载Self-Study Handout 一些思考 c语言中所有非零的数（包括浮点数）被认为是布尔真，只有零被认为是布尔假 补码操作为取反加一-x = ~x</description>
+    </item>
+    
+  </channel>
+</rss>
