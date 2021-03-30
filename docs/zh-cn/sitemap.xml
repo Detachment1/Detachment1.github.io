@@ -3,48 +3,76 @@
   
   <url>
     <loc>https://detachment1.github.io/zh-cn/categories/</loc>
-    <lastmod>2021-03-23T17:01:50+08:00</lastmod>
+    <lastmod>2021-03-30T20:25:52+08:00</lastmod>
+    <changefreq>random</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://detachment1.github.io/zh-cn/tags/csapp/</loc>
+    <lastmod>2021-03-30T20:25:52+08:00</lastmod>
+    <changefreq>random</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://detachment1.github.io/zh-cn/post/csapp_datalab_detachment/</loc>
+    <lastmod>2021-03-30T20:25:52+08:00</lastmod>
+    <changefreq>random</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://detachment1.github.io/zh-cn/tags/csapp%E6%95%B0%E6%8D%AE%E5%AE%9E%E9%AA%8C/</loc>
+    <lastmod>2021-03-30T20:25:52+08:00</lastmod>
     <changefreq>random</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://detachment1.github.io/zh-cn/</loc>
-    <lastmod>2021-03-23T17:01:50+08:00</lastmod>
-    <changefreq>random</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://detachment1.github.io/zh-cn/post/markdown_note_detachment/</loc>
-    <lastmod>2021-03-23T17:01:50+08:00</lastmod>
+    <lastmod>2021-03-30T20:25:52+08:00</lastmod>
     <changefreq>random</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://detachment1.github.io/zh-cn/post/</loc>
-    <lastmod>2021-03-23T17:01:50+08:00</lastmod>
+    <lastmod>2021-03-30T20:25:52+08:00</lastmod>
     <changefreq>random</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://detachment1.github.io/zh-cn/tags/</loc>
-    <lastmod>2021-03-23T17:01:50+08:00</lastmod>
+    <lastmod>2021-03-30T20:25:52+08:00</lastmod>
     <changefreq>random</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://detachment1.github.io/zh-cn/tags/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2021-03-23T17:01:50+08:00</lastmod>
+    <lastmod>2021-03-30T20:25:52+08:00</lastmod>
     <changefreq>random</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://detachment1.github.io/zh-cn/categories/%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2021-03-30T20:25:52+08:00</lastmod>
+    <changefreq>random</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://detachment1.github.io/zh-cn/post/csapp_detachment/</loc>
+    <lastmod>2021-03-27T10:31:24+08:00</lastmod>
+    <changefreq>random</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://detachment1.github.io/zh-cn/post/markdown_note_detachment/</loc>
     <lastmod>2021-03-23T17:01:50+08:00</lastmod>
     <changefreq>random</changefreq>
     <priority>0.5</priority>

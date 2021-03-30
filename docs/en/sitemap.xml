@@ -2,14 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://detachment1.github.io/en/categories/</loc>
-    <lastmod>2021-03-23T17:02:46+08:00</lastmod>
+    <loc>https://detachment1.github.io/en/post/csapp_datalab_detachment/</loc>
+    <lastmod>2021-03-30T20:23:46+08:00</lastmod>
     <changefreq>random</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://detachment1.github.io/en/</loc>
+    <lastmod>2021-03-30T20:23:46+08:00</lastmod>
+    <changefreq>random</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://detachment1.github.io/en/post/</loc>
+    <lastmod>2021-03-30T20:23:46+08:00</lastmod>
+    <changefreq>random</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://detachment1.github.io/en/post/csapp_detachment/</loc>
+    <lastmod>2021-03-27T10:29:42+08:00</lastmod>
+    <changefreq>random</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://detachment1.github.io/en/categories/</loc>
     <lastmod>2021-03-23T17:02:46+08:00</lastmod>
     <changefreq>random</changefreq>
     <priority>0.5</priority>
@@ -24,13 +45,6 @@
   
   <url>
     <loc>https://detachment1.github.io/en/categories/note/</loc>
-    <lastmod>2021-03-23T17:02:46+08:00</lastmod>
-    <changefreq>random</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://detachment1.github.io/en/post/</loc>
     <lastmod>2021-03-23T17:02:46+08:00</lastmod>
     <changefreq>random</changefreq>
     <priority>0.5</priority>
