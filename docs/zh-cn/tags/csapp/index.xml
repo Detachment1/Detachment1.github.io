@@ -6,7 +6,16 @@
     <description>Recent content in CS:APP on Detachment Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 30 Mar 2021 20:25:52 +0800</lastBuildDate><atom:link href="https://detachment1.github.io/zh-cn/tags/csapp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Apr 2021 14:48:02 +0800</lastBuildDate><atom:link href="https://detachment1.github.io/zh-cn/tags/csapp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>炸弹实验笔记</title>
+      <link>https://detachment1.github.io/zh-cn/post/csapp_bomblab_detachment/</link>
+      <pubDate>Mon, 05 Apr 2021 14:48:02 +0800</pubDate>
+      
+      <guid>https://detachment1.github.io/zh-cn/post/csapp_bomblab_detachment/</guid>
+      <description>实验网站 http://csapp.cs.cmu.edu/3e/labs.html 下载Self-Study Handout 实验准备 实验要求 压缩包中包含两个文件：bomb 和 cbomb.c bomb文件为可执行文件，cbomb.c文件为main</description>
+    </item>
+    
     <item>
       <title>CS:APP 数据实验笔记</title>
       <link>https://detachment1.github.io/zh-cn/post/csapp_datalab_detachment/</link>
