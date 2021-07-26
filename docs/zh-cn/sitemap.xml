@@ -3,7 +3,84 @@
   
   <url>
     <loc>https://detachment1.github.io/zh-cn/categories/</loc>
-    <lastmod>2021-04-05T14:48:02+08:00</lastmod>
+    <lastmod>2021-06-19T12:58:00+08:00</lastmod>
+    <changefreq>random</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://detachment1.github.io/zh-cn/</loc>
+    <lastmod>2021-06-19T12:58:00+08:00</lastmod>
+    <changefreq>random</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://detachment1.github.io/zh-cn/post/mac_detachment/</loc>
+    <lastmod>2021-06-19T12:58:00+08:00</lastmod>
+    <changefreq>random</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://detachment1.github.io/zh-cn/post/</loc>
+    <lastmod>2021-06-19T12:58:00+08:00</lastmod>
+    <changefreq>random</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://detachment1.github.io/zh-cn/tags/</loc>
+    <lastmod>2021-06-19T12:58:00+08:00</lastmod>
+    <changefreq>random</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://detachment1.github.io/zh-cn/tags/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2021-06-19T12:58:00+08:00</lastmod>
+    <changefreq>random</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://detachment1.github.io/zh-cn/categories/%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2021-06-19T12:58:00+08:00</lastmod>
+    <changefreq>random</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://detachment1.github.io/zh-cn/post/homebrew_detachment/</loc>
+    <lastmod>2021-06-19T10:58:00+08:00</lastmod>
+    <changefreq>random</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://detachment1.github.io/zh-cn/post/intellij_idea_detachment/</loc>
+    <lastmod>2021-06-02T09:34:04+08:00</lastmod>
+    <changefreq>random</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://detachment1.github.io/zh-cn/tags/leetcode/</loc>
+    <lastmod>2021-05-31T15:16:23+08:00</lastmod>
+    <changefreq>random</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://detachment1.github.io/zh-cn/post/leetcode_detachment/</loc>
+    <lastmod>2021-05-31T15:16:23+08:00</lastmod>
+    <changefreq>random</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://detachment1.github.io/zh-cn/post/hugo_detachment/</loc>
+    <lastmod>2021-05-30T16:29:50+08:00</lastmod>
     <changefreq>random</changefreq>
     <priority>0.5</priority>
   </url>
@@ -23,42 +100,7 @@
   </url>
   
   <url>
-    <loc>https://detachment1.github.io/zh-cn/</loc>
-    <lastmod>2021-04-05T14:48:02+08:00</lastmod>
-    <changefreq>random</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://detachment1.github.io/zh-cn/post/</loc>
-    <lastmod>2021-04-05T14:48:02+08:00</lastmod>
-    <changefreq>random</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://detachment1.github.io/zh-cn/tags/</loc>
-    <lastmod>2021-04-05T14:48:02+08:00</lastmod>
-    <changefreq>random</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://detachment1.github.io/zh-cn/tags/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2021-04-05T14:48:02+08:00</lastmod>
-    <changefreq>random</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://detachment1.github.io/zh-cn/post/csapp_bomblab_detachment/</loc>
-    <lastmod>2021-04-05T14:48:02+08:00</lastmod>
-    <changefreq>random</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://detachment1.github.io/zh-cn/categories/%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2021-04-05T14:48:02+08:00</lastmod>
     <changefreq>random</changefreq>
     <priority>0.5</priority>
